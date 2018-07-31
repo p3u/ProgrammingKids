@@ -106,7 +106,7 @@ img::-moz-selection {
   background-color: #212529;
 }
 
-#mainNav .navbar-toggler {
+/* #mainNav .navbar-toggler {
   font-size: 12px;
   right: 0;
   padding: 13px;
@@ -115,7 +115,7 @@ img::-moz-selection {
   border: 0;
   background-color: #e6e6e6;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-}
+} */
 
 #mainNav .navbar-brand {
   color: #808080;
